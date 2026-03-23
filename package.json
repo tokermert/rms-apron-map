@@ -12,7 +12,7 @@
   "dependencies": {
     "@geoman-io/leaflet-geoman-free": "^2.19.2",
     "@mapbox/mapbox-gl-draw": "^1.5.1",
-    "@tailwindcss/vite": "^4.2.1",
+    "@tailwindcss/vite": "^4.2.2",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.577.0",
     "maplibre-gl": "^5.20.1",
